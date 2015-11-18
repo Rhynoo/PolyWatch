@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Rhynoo",
+    "longName": "PolyWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/p_blanc.png",
+                "name": "POLYTECH",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "PolyWatch",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2423cdff-8777-4b08-970e-86730406744e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
